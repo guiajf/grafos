@@ -225,6 +225,17 @@ if nx.is_connected(G):
 
 **Excentricidade** (maior distância de um nó a qualquer outro)
 
+```python
+for no in G.nodes():
+    print(f"{no}: {nx.eccentricity(G, v=no)}")
+```
+
+    A: 1
+    B: 2
+    C: 2
+    D: 2
+    E: 2
+
 ### Problema do Caixeiro Viajante (TSP)
 
 **Definições:**
