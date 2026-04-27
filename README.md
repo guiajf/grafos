@@ -854,9 +854,9 @@ for inicio, dist, rota in resultados[:5]:
 **Referências:**
 
 CORMEN, Thomas H. et al. Introduction to Algorithms. 4. ed. Cambridge: MIT Press, 2022
-Disponível em: https://iitdh.ac.in/~konjengbam.anand/courses/daa/CLRS4e2022.pdf. Último acesso em: 19/04/2026.
+Disponível em: https://iitdh.ac.in/~konjengbam.anand/courses/daa/CLRS4e2022.pdf.
 
-Laporte, G. (1992). The traveling salesman problem: An overview of exact and approximate algorithms. European Journal of Operational Research, 59(2), 231-247. Disponível em: https://web.ist.utl.pt/~ist11038/CD_Casquilho/TSP1992EJOR_Laporte.pdf. Último acesso em: 21/04/2026.
+Laporte, G. (1992). The traveling salesman problem: An overview of exact and approximate algorithms. European Journal of Operational Research, 59(2), 231-247. Disponível em: https://web.ist.utl.pt/~ist11038/CD_Casquilho/TSP1992EJOR_Laporte.pdf.
 
 BELLO, I. et al. Neural Combinatorial Optimization with Reinforcement Learning. arXiv:1611.09940, 2017. DOI: 
 https://doi.org/10.48550/arXiv.1611.09940
@@ -867,7 +867,3 @@ BARABÁSI, A.-L. Network Science. http://networksciencebook.com/
 
 Downey, A. B. (2018). Think Complexity: Complexity Science and Computational Modeling (2nd ed.). Green Tea Press. https://greenteapress.com/wp/think-complexity-2e/
 
-
-```python
-
-```
