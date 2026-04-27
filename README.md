@@ -19,12 +19,6 @@ import random
 
 
 ```python
-import networkx as nx
-import matplotlib.pyplot as plt
-from itertools import permutations
-import time
-import random
-
 # Grafo vazio
 G = nx.Graph()
 
