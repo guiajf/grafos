@@ -809,43 +809,7 @@ for inicio, dist, rota in resultados[:5]:
 
 **Conclusão**
 
-
-```python
-print("""
-✅Vantagens:
-    A heurística do vizinho mais próximo apresenta importantes vantagens que a 
-    tornam atraente para problemas de grande escala. Sua principal vantagem é a 
-    velocidade computacional, pois opera em tempo O(n²), enquanto a solução exata 
-    por força bruta cresce em O(n!), tornando-se impraticável para muitas cidades. 
-    Além disso, é fácil de implementar e compreender, oferecendo soluções "boas o 
-    suficiente" na maioria dos casos práticos. Ainda, seu desempenho pode ser 
-    significativamente melhorado simplesmente executando o algoritmo a partir de 
-    diferentes pontos de partida.
-
-⚠️ Limitações:
-    Entretanto, a heurística possui limitações importantes que devem ser consideradas. 
-    Diferentemente da força bruta, ela não garante a solução ótima global, podendo ficar 
-    presa em ótimos locais. Outra limitação relevante é que grafos não completos podem 
-    inviabilizar completamente a rota, já que a heurística pressupõe a existência de 
-    conexões entre todos os pares de nós.
-
-💡 Recomendação:
-    Com base nessas características, recomenda-se executar a heurística com todos os nós 
-    como ponto de partida e escolher a melhor solução encontrada entre elas. Para 
-    problemas com até 12 cidades, ainda vale a pena utilizar a força bruta para obter a 
-    solução exata. Já para mais de 12 cidades, recomenda-se o uso de heurísticas múltiplas, 
-    incluindo diferentes estratégias como vizinho mais próximo, inserção mais próxima e 
-    inserção mais distante.
-
-🔬 Aplicações reais
-    A heurística do vizinho mais próximo tem aplicações reais importantes, incluindo logística
-    de entregas em grandes empresas como UPS, FedEx, Amazon e Mercado Livre, planejamento de 
-    rotas de ônibus urbano, e otimização do posicionamento de chips na indústria de 
-    semicondutores.
-""")
-```
-
-    
+  
     ✅Vantagens:
         A heurística do vizinho mais próximo apresenta importantes vantagens que a 
         tornam atraente para problemas de grande escala. Sua principal vantagem é a 
