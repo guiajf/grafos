@@ -856,7 +856,7 @@ for inicio, dist, rota in resultados[:5]:
 CORMEN, Thomas H. et al. Introduction to Algorithms. 4. ed. Cambridge: MIT Press, 2022
 Disponível em: https://iitdh.ac.in/~konjengbam.anand/courses/daa/CLRS4e2022.pdf. Último acesso em: 19/04/2026.
 
-Laporte, G. (1992). The traveling salesman problem: An overview of exact and approximate algorithms. European Journal of Operational Research, 59(2), 231-247. https://doi.org/10.1016/0377-2217(92)90138-Y. Disponível em: https://web.ist.utl.pt/~ist11038/CD_Casquilho/TSP1992EJOR_Laporte.pdf. Último acesso em: 21/04/2026.
+Laporte, G. (1992). The traveling salesman problem: An overview of exact and approximate algorithms. European Journal of Operational Research, 59(2), 231-247. Disponível em: https://web.ist.utl.pt/~ist11038/CD_Casquilho/TSP1992EJOR_Laporte.pdf. Último acesso em: 21/04/2026.
 
 BELLO, I. et al. Neural Combinatorial Optimization with Reinforcement Learning. arXiv:1611.09940, 2017. DOI: 
 https://doi.org/10.48550/arXiv.1611.09940
