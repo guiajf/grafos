@@ -113,7 +113,7 @@ Nó **A** é o *hub* central (conectado a todos). Nó **E** é periférico (grau
 
 ### Medidas de centralidade
 
-**Grau** (normalizado
+**Grau** (normalizado)
 
 *CD(v) = grau(v) / (n-1)*
 
